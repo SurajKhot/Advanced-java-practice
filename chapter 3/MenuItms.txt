@@ -1,0 +1,13 @@
+MenuItem i1,i2,i3,i4,i5,i6,i7,i8,i9,i0,i11,i12;
+		file.add(i1=new MenuItem("new"));
+		file.add(i2=new MenuItem("OPen"));
+		file.add(i3=new MenuItem("Save"));
+		file.add(i4=new MenuItem("Print"));
+		edit.add(i5=new MenuItem("Find"));
+		edit.add(i6=new MenuItem("Replace"));
+		edit.add(i7=new MenuItem("Copy"));
+		edit.add(i8=new MenuItem("Cut"));
+		view.add(i9=new MenuItem("Full Screen"));
+		view.add(i0=new MenuItem("Print Layout"));
+		view.add(i11=new MenuItem("Zoom"));
+		view.add(i12=new MenuItem("Toolbar"));
