@@ -30,7 +30,7 @@ public class FactDemo extends Applet implements ActionListener
 		add(b);
 		b.addActionListener(this);
 	}
-	public void actionPerformed(ActionEvent ae)
+	public void actionPerformed(ActionEvent ae)//method gets initiated when button is clicked
 	{
 		int fact=1,n;
 		n=Integer.parseInt(t1.getText());
